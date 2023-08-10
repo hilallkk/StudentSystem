@@ -25,8 +25,6 @@ void show();
 void gotoxy(int,int);
 
 int change(){
-	printf("a");
-	
 		system("cls");
 	int button,no,readed,readed1,tno,tclass,tchange,button1;
 	char tname[20],tsurname[20],tdepartment[30];
